@@ -1,2 +1,2 @@
-# week_2_spatial
+# week2_spatial
 challenge 1
